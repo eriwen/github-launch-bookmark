@@ -1,6 +1,6 @@
 {
   "name": "GitHub Launch",
-  "description": "",
+  "description": "Access GitHub from a single search box supercharged with command line power.",
   "default_locale" : "en",
   "version": "0.1.0",
   "manifest_version": 2,
