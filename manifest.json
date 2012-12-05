@@ -1,0 +1,18 @@
+{
+  "name": "GitHub Launch",
+  "description": "",
+  "default_locale" : "en",
+  "version": "0.1.0",
+  "manifest_version": 2,
+  "icons": {
+    "128": "128.png"
+  },
+  "permissions": [],
+  "app": {
+    "launch": {
+      "container": "tab",
+      "web_url": "https://github.com/launch"
+    }
+  },
+  "options_page": "https://github.com/settings/profile"
+}

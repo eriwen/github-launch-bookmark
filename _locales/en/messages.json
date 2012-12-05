@@ -1,0 +1,10 @@
+﻿{
+  "appName": {
+    "message": "GitHub Launch",
+    "description": "App name."
+  },
+  "appDesc": {
+    "message": "", 
+    "description":"App description."
+  }
+}
