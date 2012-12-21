@@ -5,7 +5,8 @@
   "version": "0.1",
   "manifest_version": 2,
   "icons": {
-    "128": "128.png"
+    "128": "github-logo-128.png",
+    "512": "github-logo-512.png"
   },
   "permissions": [],
   "app": {
