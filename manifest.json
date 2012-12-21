@@ -1,8 +1,8 @@
 {
   "name": "GitHub Launch",
-  "description": "Access GitHub from a single search box supercharged with command line power.",
+  "description": "Access GitHub from a single search box supercharged with command-line power.",
   "default_locale" : "en",
-  "version": "0.2.2",
+  "version": "0.1",
   "manifest_version": 2,
   "icons": {
     "128": "128.png"
@@ -11,11 +11,11 @@
   "app": {
     "launch": {
       "container": "tab",
-      "web_url": "https://launch.github.com/"
+      "web_url": "https://github.com/launch"
     },
     "web_content": {
       "enabled": true,
-      "origin": "https://launch.github.com/"
+      "origin": "https://github.com/launch"
     }
   },
   "options_page": "https://github.com/settings/profile"
